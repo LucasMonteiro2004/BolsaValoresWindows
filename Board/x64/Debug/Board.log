@@ -1,0 +1,5 @@
+﻿  board.c
+C:\Users\afons\Desktop\SO2 TP\so2-2324-tp-LucasMonteiro-2022153271-AfonsoSilva-2021133861\so2-2324-tp-LucasMonteiro-2022153271-AfonsoSilva-2021133861\Board\board.c(52,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\afons\Desktop\SO2 TP\so2-2324-tp-LucasMonteiro-2022153271-AfonsoSilva-2021133861\so2-2324-tp-LucasMonteiro-2022153271-AfonsoSilva-2021133861\Board\board.c(53,13): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\afons\Desktop\SO2 TP\so2-2324-tp-LucasMonteiro-2022153271-AfonsoSilva-2021133861\so2-2324-tp-LucasMonteiro-2022153271-AfonsoSilva-2021133861\Board\board.c(60,21): warning C4018: '<': signed/unsigned mismatch
+  Board.vcxproj -> C:\Users\afons\Desktop\SO2 TP\so2-2324-tp-LucasMonteiro-2022153271-AfonsoSilva-2021133861\so2-2324-tp-LucasMonteiro-2022153271-AfonsoSilva-2021133861\x64\Debug\Board.exe

@@ -1,0 +1,10 @@
+metro 1000 10
+spaceY 200 5
+compal 300 30
+empX 400 50
+worten 500 50
+auchan 1500 30
+xpto 350 30
+zxcv 900 5
+emp123 4000 2
+dez12 40 50

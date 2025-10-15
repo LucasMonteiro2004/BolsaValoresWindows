@@ -1,0 +1,4 @@
+﻿  cliente.c
+C:\Users\afons\Desktop\SO2 TP\so2-2324-tp-LucasMonteiro-2022153271-AfonsoSilva-2021133861\so2-2324-tp-LucasMonteiro-2022153271-AfonsoSilva-2021133861\Cliente\cliente.c(86,9): warning C4474: 'wprintf' : too many arguments passed for format string
+C:\Users\afons\Desktop\SO2 TP\so2-2324-tp-LucasMonteiro-2022153271-AfonsoSilva-2021133861\so2-2324-tp-LucasMonteiro-2022153271-AfonsoSilva-2021133861\Cliente\cliente.c(86,9): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Cliente.vcxproj -> C:\Users\afons\Desktop\SO2 TP\so2-2324-tp-LucasMonteiro-2022153271-AfonsoSilva-2021133861\so2-2324-tp-LucasMonteiro-2022153271-AfonsoSilva-2021133861\x64\Debug\Cliente.exe

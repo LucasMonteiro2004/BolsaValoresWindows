@@ -1,0 +1,10 @@
+maria qwerty 33.00
+joao 123abc 445.00
+ana abcd1234 1000
+pedro p@ssw0rd 700
+carla cArLa123 300
+paulo 987654 150
+sandra s@ndr@567 900
+luis lu1sP@ss 200
+rita ritinha00 400
+fernando f3rn@nd0 800
