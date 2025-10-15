@@ -6,8 +6,8 @@ Data de entrega: 18 de Maio de 2024
 
 ## Grupo
 
-- 2022153271
-- 2021133861
+- 2022153271 - Lucas Monteiro
+- 2021133861 - Afonso Silva
 
 ---
 
@@ -151,3 +151,4 @@ Fluxo resumido:
 ## Licença
 
 Este projeto é apenas para fins acadêmicos.
+
