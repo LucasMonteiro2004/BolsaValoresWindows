@@ -13,7 +13,7 @@ Data de entrega: 18 de Maio de 2024
 
 ## Sumário
 
-Este projeto tem como objetivo a implementação de uma Bolsa de Valores online simplificada, servindo como estudo prático para conceitos de sistemas distribuídos e comunicação entre processos. O sistema permite que usuários registrem empresas, comprem e vendam ações, e visualizem informações detalhadas sobre transações e participantes do mercado, com foco na aplicação dos conhecimentos adquiridos em aula.
+Este projeto tem como objetivo a implementação de uma Bolsa de Valores online simplificada, servindo como estudo prático para conceitos de sistemas operativos win32 e comunicação entre processos. O sistema permite que utilizadores registrem empresas, comprem e vendam ações, e visualizem informações detalhadas sobre transações e participantes do mercado, com foco na aplicação dos conhecimentos adquiridos em aula.
 
 ---
 
@@ -151,4 +151,5 @@ Fluxo resumido:
 ## Licença
 
 Este projeto é apenas para fins acadêmicos.
+
 
